@@ -1,0 +1,27 @@
+{
+  "name": "gsuite-auto-create-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwaludinAR/GSuite-auto-create-user.git"
+  },
+  "keywords": [
+    "GSuite"
+  ],
+  "author": "Awaludin AR",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AwaludinAR/GSuite-auto-create-user/issues"
+  },
+  "homepage": "https://github.com/AwaludinAR/GSuite-auto-create-user#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
